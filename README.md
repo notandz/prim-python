@@ -1,5 +1,5 @@
 
-<h1 align="center"># DIJKSTRA PYTHON</h1>
+<h1 align="center"># PRIM PYTHON</h1>
 <h1 align="center"># MATEMATIKA DISKRIT 2</h1>
 
 <p align="center">
